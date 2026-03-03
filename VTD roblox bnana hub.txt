@@ -67,7 +67,7 @@ local Root = HumanoidRootPart
 Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/hdanhhub/UI/refs/heads/main/ui_BananaHub_final.lua"))()
 
 Window = Library:CreateWindow({
-    Title = "VTD roblox",
+    Title = "Vietdepzai",
     Desc = "- Blox Fruit",
     Image = "rbxassetid://123613996022560"
 })
@@ -11932,7 +11932,7 @@ if Sea3 then
     spawn(function()
         while wait() do
             if _G.Hallow then pcall(function()
-                if not game.Workspace.Enemies:FindFirstChild("Soul Reaper") then
+       printl Reaper") then
                     if game.Players.LocalPlayer.Backpack:FindFirstChild("Hallow Essence") or game.Players.LocalPlayer.Character:FindFirstChild("Hallow Essence") then
                         repeat TweenBlock(CFrame.new(-8932.32,146.83,6062.55)); wait()
                         until (CFrame.new(-8932.32,146.83,6062.55).Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 8
@@ -12060,4 +12060,4 @@ Tabs.Misc:AddButton({
 })
 
 -- ===============================================================
-print('✅ VTD roblox - Tất cả tính năng đã được load!')
+print('✅ vietdepzaicuto- Tất cả tính năng đã được load!')
