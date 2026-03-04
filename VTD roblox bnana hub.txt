@@ -267,7 +267,7 @@ end
 -- TẠO CÁC TABS VỚI WRAPPER
 -- ==========================================
 Tabs = {
-    ["Info"]     = wrapTab(Window:AddTab("Thông Tin")),
+
     ["Main"]     = wrapTab(Window:AddTab("Cày Cấp")),
     ["Sea"]      = wrapTab(Window:AddTab("Sự Kiện")),
     ["Item"]     = wrapTab(Window:AddTab("Lấy & Nâng Cấp Vật Phẩm")),
