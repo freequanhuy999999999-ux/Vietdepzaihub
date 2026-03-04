@@ -62,7 +62,7 @@ local plr = Player
 local Root = HumanoidRootPart
 
 -- ==========================================
--- LOAD UI LIBRARY (VTD roblox)
+-- LOAD UI LIBRARY (vietdepzai)
 -- ==========================================
 Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/hdanhhub/UI/refs/heads/main/ui_BananaHub_final.lua"))()
 
@@ -267,7 +267,7 @@ end
 -- TẠO CÁC TABS VỚI WRAPPER
 -- ==========================================
 Tabs = {
-    ["Info"]     = wrapTab(Window:AddTab("Thông Tin")),
+
     ["Main"]     = wrapTab(Window:AddTab("Cày Cấp")),
     ["Sea"]      = wrapTab(Window:AddTab("Sự Kiện")),
     ["Item"]     = wrapTab(Window:AddTab("Lấy & Nâng Cấp Vật Phẩm")),
@@ -353,7 +353,7 @@ end)
 wait(1)
 
 Library:Notify({
-    Title = "VTD roblox",
+    Title = "vietdepzai",
     Description = "Chào mừng! UI màu hồng đã được load thành công.\nNhấn nút góc trái màn hình để mở GUI.",
     Duration = 4
 })
