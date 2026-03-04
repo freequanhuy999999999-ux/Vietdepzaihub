@@ -8,7 +8,7 @@ if player.PlayerGui:FindFirstChild("VTD_Intro") then
 end
 
 local gui = Instance.new("ScreenGui")
-gui.Name = "VTD_Intro"
+gui.Name = "vietcuto"
 gui.IgnoreGuiInset = true
 gui.ResetOnSpawn = false
 gui.Parent = player:WaitForChild("PlayerGui")
@@ -29,7 +29,7 @@ title.AnchorPoint = Vector2.new(0.5,0.5)
 title.Position = UDim2.fromScale(0.5,0.5)
 title.Size = UDim2.fromOffset(700,140)
 title.BackgroundTransparency = 1
-title.Text = "VTD ROBLOX"
+title.Text = "việt đẹp zai cuto"
 title.Font = Enum.Font.GothamBlack
 title.TextScaled = true
 title.TextColor3 = Color3.fromRGB(0,255,255)
