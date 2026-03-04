@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/hdanhhub/hdanhhub/refs/heads/main/fixlagbyhdanh.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/freequanhuy999999999-ux/Vietdepzaihub/refs/heads/main/Fixlag"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/AnhDangNhoEm/TuanAnhIOS/refs/heads/main/koby"))()
 
 -- ==========================================
