@@ -311,7 +311,7 @@ v5:Destroy();
 -- end);
 loadstring(game:HttpGet("https://raw.githubusercontent.com/hdanhhub/hdanhhub/refs/heads/main/Fix-Lag.lua.txt"))()
 else
-shared.LoaderTitle = "Đăng Ký Kênh Nopermc";
+shared.LoaderTitle = "Yêu chị Linh ❤️";
 shared.LoaderKeyFrames = {
     [1] = {
         1,
