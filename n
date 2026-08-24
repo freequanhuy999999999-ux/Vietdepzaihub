@@ -1,4 +1,4 @@
-
+-- owner:vietdepzai
 repeat task.wait() until game:IsLoaded()
 local Header = "https://api.luarmor.net/files/v4/loaders/"
 local KeySystem = {
@@ -10,7 +10,7 @@ local KeySystem = {
 
 	Config = {
 		Name = "ZeroPointKeySystem",
-		Folder = vietdepzai",
+		Folder = "ZeroPoint",
 		KeyFile = "ZeroPoint/Key.txt",
 
 		LinkvertiseLink = "https://ads.luarmor.net/get_key?for=Link-kuzvsbvNJEmd",
